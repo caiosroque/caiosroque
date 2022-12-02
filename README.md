@@ -2,9 +2,7 @@ Hello World, meu nome é Caio Roque!
 
 - 🔭 Hoje trabalho com back-end
 - 🐍 Estudando Python
-- 🔱 Rato de academia
-- 🧠 Amo Neurociência
-- 🌠 Amo Astronomia
+- 🧠 Neurociência
 
 ##
 
