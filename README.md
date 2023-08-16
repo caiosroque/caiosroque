@@ -1,8 +1,8 @@
 Hello World, meu nome é Caio Roque!
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Desenvolvedor
 - 🐍 Estudando Python
-- 🧠 Neurociência
+- 💪🏻 Veni Vidi Vici
 
 ##
 
