@@ -1,8 +1,6 @@
 Hello World, meu nome é Caio Roque!
 
 - 🔭 Desenvolvedor
-- 🐍 Estudando Python
-- 💪🏻 Veni Vidi Vici
 
 ##
 
