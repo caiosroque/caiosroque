@@ -1,6 +1,6 @@
-Hello World, meu nome é Caio Roque!
+Hello World, é o Roque!
 
-- 🔭 Desenvolvedor
+- 🔭 Futuro Data Engineer
 
 ##
 
