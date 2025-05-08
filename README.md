@@ -1,6 +1,8 @@
-Hello World, é o Roque!
+Hi, I'm Caio, and I'm a Data Scientist, passionate about learning new technologies and sharing knowledge.
 
-- 🔭 Futuro Data Engineer
+🖼️ I'm a Data Scientist enthusiast
+📱 I'm currently working with SQL
+🌱 I’m currently learning about Machine Learning and Data Science
 
 ##
 
