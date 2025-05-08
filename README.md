@@ -1,10 +1,10 @@
-Hi, I'm Caio, and I'm a Data Scientist, passionate about learning new technologies and sharing knowledge.
+### Hi, I'm Caio, and I'm a Data Scientist, passionate about learning new technologies and sharing knowledge.
 
-
-- 🖼️ I'm a Data Scientist enthusiast<br>
-- 📱 I'm currently working with SQL<br>
-- 🌱 I’m currently learning about Machine Learning and Data Science<br>
-
+<h4>
+  I'm a Data Scientist enthusiast<br>
+  I'm currently working with SQL<br>
+  I’m currently learning about Machine Learning and Data Science<br>
+</h4>
 ##
 
 <div align="center">
