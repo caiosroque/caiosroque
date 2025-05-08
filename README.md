@@ -1,8 +1,9 @@
 Hi, I'm Caio, and I'm a Data Scientist, passionate about learning new technologies and sharing knowledge.
 
-🖼️ I'm a Data Scientist enthusiast
-📱 I'm currently working with SQL
-🌱 I’m currently learning about Machine Learning and Data Science
+
+- 🖼️ I'm a Data Scientist enthusiast<br>
+- 📱 I'm currently working with SQL<br>
+- 🌱 I’m currently learning about Machine Learning and Data Science<br>
 
 ##
 
@@ -14,17 +15,13 @@ Hi, I'm Caio, and I'm a Data Scientist, passionate about learning new technologi
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
 
 ###
